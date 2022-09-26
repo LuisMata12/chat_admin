@@ -1,4 +1,4 @@
-import Convesation from './componetns-chat/convesation'
+import Convesation from './componetns-chat/conversation'
 
 function App() {
   return (
